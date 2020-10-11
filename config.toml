@@ -1,0 +1,18 @@
+baseURL = "https://ablog.github.io"
+languageCode = "en-us"
+title = "Adithya"
+theme = "yinyang"
+DefaultContentLanguage = "en"
+
+[author]
+  name = "Adithya"
+  homepage = "https://ablog.github.io"
+
+[params]
+disqus = "adithya" # disqus account name
+extraHead = ''
+mainSections = ["posts"]
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/adithyaz"
